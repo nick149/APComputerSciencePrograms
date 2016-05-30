@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=sales\ day
+comment0.target=void\ mondays(int,\ int)
+comment1.params=sales\ day
+comment1.target=void\ tuesdays(int,\ int)
+comment2.params=sales\ day
+comment2.target=void\ saterdays(int,\ int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

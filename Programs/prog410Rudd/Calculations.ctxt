@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=surveys
+comment0.target=void\ load(SurveyTaker)
+comment1.params=surveys
+comment1.target=void\ printHouseholdIncomeExceedingAverage(SurveyTaker)
+comment2.params=surveys
+comment2.target=void\ print(SurveyTaker)
+comment2.text=\r\n\ design\ for\ debug\r\n\ @param\ surveys\r\n
+comment3.params=surveys
+comment3.target=void\ printHouseholdIncomeBelowPoverty(SurveyTaker)
+numComments=4
