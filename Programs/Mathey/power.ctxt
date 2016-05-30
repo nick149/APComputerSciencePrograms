@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ power()
+comment0.text=\ \r\n\ The\ following\ method\ is\ a\ overloading\ method\ and\ sould\ just\ return\ null\r\n
+comment1.params=number\ power
+comment1.target=double\ power(double,\ int)
+comment1.text=\r\n\ The\ following\ method\ takes\ in\ a\ (double)\ number,\ then\ the\ (int)\ power\r\n\ \r\n\ Variables\:\r\n\ \ \ \ \ \ \ \ \ \ number-double-the\ number\ that\ you\ would\ like\ to\ power\r\n\ \ \ \ \ \ \ \ \ \ power-int-the\ number\ that\ you\ would\ like\ to\ power\ the\ number\ by\r\n
+comment2.params=number\ power
+comment2.target=double\ power(double,\ double)
+comment2.text=\r\n\ The\ following\ method\ takes\ in\ a\ (double)\ number,\ then\ the\ (double)\ power\r\n\ \r\n\ Variables\:\r\n\ \ \ \ \ \ \ \ \ \ number-double-the\ number\ that\ you\ would\ like\ to\ power\r\n\ \ \ \ \ \ \ \ \ \ power-double-the\ number\ that\ you\ would\ like\ to\ power\ the\ number\ by\r\n
+numComments=3
