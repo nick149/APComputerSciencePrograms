@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ getInfo()
+comment1.params=matValues
+comment1.target=void\ transposeMatrix(int[][])
+comment2.params=amin
+comment2.target=void\ main(java.lang.String[])
+numComments=3
